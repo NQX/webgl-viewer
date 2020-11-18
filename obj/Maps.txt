@@ -1,0 +1,8 @@
+
+
+Farbe		-> test_01_diff
+bump		-> test_01_bump
+Refl / Spec	-> test_01_spec
+
+
+sky_cloudy	-> als enviroment reflection map
